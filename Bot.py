@@ -283,7 +283,7 @@ def SalvarResultado():
     arquivo.write(resultNotSaves)
     arquivo.close()
 
-#ReadExcel()
+ReadExcel()
 getTheMessage()
-#WhatsappDealing()       
-#SalvarResultado()
+WhatsappDealing()       
+SalvarResultado()
